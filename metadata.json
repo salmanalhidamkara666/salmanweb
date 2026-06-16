@@ -1,0 +1,6 @@
+{
+  "name": "Kara FX",
+  "description": "Kara FX is a modern minimalist trading education & directory platform featuring FX blogs, premium ebooks, and market structure journals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
